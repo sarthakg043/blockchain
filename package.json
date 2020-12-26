@@ -4,7 +4,7 @@
   "description": "very simple app just for educational purpose. This by no means has complete imoplementation or is secure.",
   "main": "app.js",
   "dependencies": {
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.3",
     "crypto-js": "^3.1.9-1"
   },
   "devDependencies": {},
